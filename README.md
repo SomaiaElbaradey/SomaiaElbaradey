@@ -1,8 +1,8 @@
 <h1 align="center">Hi there :skull:, I'm Somaia Elbaradey</h1>
-<h3 align="center">A Software Engineer, Passionate about Software Development and BI.</h3>
+<h3 align="center">A Software Engineer.</h3>
 
  <p align="center"> I’m a graduate of ITI41, <b> Professional Web Development and BI </b> track.
-  I’m looking forward to learn, apply my programming skills and gain more experience in software industry.</p>
+  I’m looking forward to learn, to apply my programming skills and gain more experience in software industry.</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=somaiaelbaradey&show_icons=true&locale=en&layout=compact" alt="somaiaelbaradey" /></p>
  
