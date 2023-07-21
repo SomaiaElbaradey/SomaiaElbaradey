@@ -6,7 +6,7 @@
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=somaiaelbaradey&show_icons=true&locale=en&layout=compact" alt="somaiaelbaradey" /></p> -->
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somaiaelbaradey" alt="jabalov" /></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somaiaelbaradey&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15" alt="somaiaelbaradey" /></a></p>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
