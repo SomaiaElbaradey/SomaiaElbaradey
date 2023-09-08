@@ -7,14 +7,14 @@
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=somaiaelbaradey&show_icons=true&locale=en&layout=compact" alt="somaiaelbaradey" /></p> -->
 
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somaiaelbaradey&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15" alt="somaiaelbaradey" /></a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somaiaelbaradey&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15" alt="somaiaelbaradey" /></a>
 
 
 
  <p align="center">
  GitHub Stats:
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somaiaelbaradey&hide_border=true&include_all_commits=true&count_private=true&layout=compact)    ![](https://github-readme-streak-stats.herokuapp.com/?user=somaiaelbaradey&hide_border=true&starting_year=2020)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=somaiaelbaradey&hide_border=true&include_all_commits=true&count_private=true&layout=compact)   ![](https://github-readme-streak-stats.herokuapp.com/?user=somaiaelbaradey&hide_border=true&starting_year=2020)
 </p>
 
 
