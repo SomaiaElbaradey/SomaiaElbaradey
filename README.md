@@ -1,7 +1,9 @@
 <h1 align="center">Hi there :skull:, I'm Somaia Elbaradey</h1>
 <h3 align="center">A lifelong-Learner Software Engineer who loves coding quietly. </h3>
 
- <p align="center"> My tech journey is rooted in a Software Diploma and a B.Sc. in Engineering. </br> React, TypeScript, and JavaScript are my trusted companions and preferred tools for crafting digital magic on this journey.</br></br> Being an introvert in the tech space? It's my secret weapon! It lets me zone in, getting lost in the code.</br></br> My journey doesn't end at the frontend. I excel in full-stack development, where I balance the art of frontend with the strength of NodeJS in the backend.</br></br>Despite my introverted nature, I live for those "Aha!" moments when we, as a team, solve challenging puzzles together.</br></br> Learning, applying my programming skills, and gaining more experience in the software industry are my constant goals. </br>
+ <p align="center">  </br> React, TypeScript, and JavaScript are my trusted companions and preferred tools for crafting digital magic on this journey.</br></br> Being an introvert in the tech space? It's my secret weapon! It lets me zone in, getting lost in the code.</br></br>
+ My journey doesn't end at the frontend. I excel in full-stack development, where I balance the art of frontend with the strength of NodeJS in the backend.</br></br>Despite my introverted nature, I live for those "Aha!" moments when we, as a team, solve challenging puzzles together.</br>
+ </br> I'm constantly pursuing learning opportunities and applying my programming skills to real-world projects. The ever-evolving software industry keeps me motivated, and I'm excited to be a part of this dynamic field.</br>
 </p>
 
 
