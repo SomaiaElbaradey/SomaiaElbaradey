@@ -1,4 +1,4 @@
-<h1 align="center">Hi there :skull:, I'm Somaia Elbaradey</h1>
+<h1 align="center">Hi there, I'm Somaia Elbaradey</h1>
 <h3 align="center">A lifelong-Learner Software Engineer who loves coding quietly. </h3>
 
  <p align="center">  </br> React, TypeScript, and JavaScript are my trusted companions and preferred tools for crafting digital magic on this journey.</br>
