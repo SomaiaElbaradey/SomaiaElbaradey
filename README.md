@@ -2,7 +2,7 @@
 <h3 align="center">A lifelong-Learner Software Engineer who loves coding quietly. </h3>
 
  <p align="center">  </br> React, TypeScript, and JavaScript are my trusted companions and preferred tools for crafting digital magic on this journey.</br>
- </br> I'm constantly pursuing learning opportunities and applying my programming skills to real-world projects. The ever-evolving software industry keeps me motivated, and I'm excited to be a part of this dynamic field.</br>
+ </br> I'm constantly pursuing learning opportunities and applying my programming skills to real-world projects. The ever-evolving software industry keeps me motivated, and I'm excited to always be a part of this dynamic field.</br>
 </p>
 
 
